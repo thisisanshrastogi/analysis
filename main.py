@@ -9,7 +9,7 @@ APP_ID = 'com.citi.citimobile'
 
 result,_ = reviews(APP_ID,lang="en",country="us",sort=Sort.NEWEST,count=1000)
 
-# filtered  = [r for r in result if r['at']>=one_year_ago]
+filtered  = [r for r in result if r['at']>=one_year_ago]
 
 # data = []
 # for r in filtered:
