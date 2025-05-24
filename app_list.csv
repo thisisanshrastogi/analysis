@@ -1,0 +1,88 @@
+Category,App Name,Package Name
+Banking,Capital One Mobile,com.capitalone.mobile.android
+Banking,Bank of America Mobile,com.bankofamerica.mobilebanking
+Banking,Chase Mobile,com.chase.sig.android
+Banking,Citi Mobile,com.citi.citimobile
+Banking,Wells Fargo Mobile,com.wf.wellsfargomobile
+Banking,USAA Mobile,com.usaa.mobile.android
+Banking,Discover Mobile,com.discover.android
+Banking,PNC Mobile,com.pnc.mbanking
+Banking,U.S. Bank Mobile,com.usbank.mobile
+Banking,Regions Mobile,com.regions.mobile
+Banking,Truist Mobile,com.suntrust.mobile
+Banking,Fifth Third Mobile,com.fifththird.fifththirdmobile
+Banking,Citizens Mobile,com.citizensbank.mobile
+Banking,Huntington Mobile,com.huntingtonmobile.android
+Banking,KeyBank Mobile,com.keybank.android
+Banking,M&T Bank Mobile,com.mtb.mbanking
+Banking,Santander Mobile,com.santander.android
+Banking,BB&T Mobile,com.bbt.android
+Banking,First Citizens Bank,com.firstcitizensbank.mobile
+Banking,American Express,com.americanexpress.android
+Banking,Chime,com.chime.android
+Banking,SoFi,com.sofi.mobile
+Banking,Varo,com.varomoney
+Banking,Ally Bank,com.ally.mobile
+Banking,Alliant Credit Union,com.alliantcreditunion.mobile
+Banking,Truist Bank,com.truist.mobile
+Banking,Goldman Sachs,com.goldmansachs
+Banking,Charles Schwab,com.schwab.mobile
+Banking,Fidelity Investments,com.fidelity.android
+Banking,Robinhood,com.robinhood.android
+Banking,Acorns,com.acorns.android
+Banking,Stash,com.stash.android
+Banking,Betterment,com.betterment.android
+Banking,Wealthfront,com.wealthfront.android
+Banking,SoFi Invest,com.sofi.invest
+Banking,Public.com,com.public.android
+Banking,Webull,com.webull
+Banking,E*TRADE,com.etrade.android
+Banking,TD Ameritrade,com.tdameritrade
+Banking,Interactive Brokers,com.interactivebrokers
+Banking,MERRILL EDGE,com.merrilledge
+Banking,Edward Jones,com.edwardjones
+Banking,Raymond James,com.raymondjames
+Banking,Janney Montgomery Scott,com.janney
+Banking,Stifel,com.stifel
+Banking,LPL Financial,com.lplfinancial
+Banking,Ameriprise Financial,com.ameriprise
+Banking,Morgan Stanley,com.morganstanley
+Utility,Con Edison,com.conedison.app
+Utility,PG&E,com.pge.mobile
+Utility,Duke Energy,com.dukeenergy.app
+Utility,National Grid,com.nationalgrid.app
+Utility,Xcel Energy,com.xcelenergy.app
+Utility,Florida Power & Light,com.fpl.mobile
+Utility,CenterPoint Energy,com.centerpointenergy.app
+Utility,Entergy,com.entergy.mobile
+Utility,PSEG Long Island,com.psegli.mobile
+Utility,Pepco,com.pepco.mobile
+Utility,Baltimore Gas and Electric,com.bge.mobile
+Utility,Southern California Edison,com.sce.android.app
+Utility,San Diego Gas & Electric,com.sdge.android
+Utility,Pacific Power,com.pacificpower.android
+Utility,Idaho Power,com.idahopower.mobile
+Utility,NV Energy,com.nvenergy.android
+Utility,Alliant Energy,com.alliantenergy.android
+Utility,Consumers Energy,com.consumersenergy.mobile
+Utility,CenterPoint Energy Texas,com.centerpointenergy.texas
+Utility,PNM,com.pnm.android
+Utility,Arizona Public Service,com.aps.android
+Utility,Southern Company,com.southerncompany.android
+Utility,Georgia Power,com.georgiapower.android
+Utility,Alabama Power,com.alabamapower.android
+Utility,Mississippi Power,com.mspower.android
+Utility,Gulf Power,com.gulfpower.android
+Utility,Tampa Electric,com.tampaelectric.android
+Utility,Duke Energy Progress,com.dukeenergy.progress
+Utility,Duke Energy Carolinas,com.dukeenergy.carolinas
+Utility,Dominion Energy,com.dominionenergy.android
+Utility,PECO,com.peco.android
+Utility,PPL Electric Utilities,com.ppl.android
+Utility,PSEG New Jersey,com.psegnj.android
+Utility,Constellation Energy,com.constellation.android
+Utility,Exelon,com.exelon.android
+Utility,Baltimore Gas & Electric,com.bge.android
+Utility,Eversource,com.eversource.android
+Utility,Liberty Utilities,com.libertyutilities.android
+Utility,Evergy,com.evergy.android
